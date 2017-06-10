@@ -1,0 +1,13 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "description" : "Scrape da web.",
+  "main": "app.js",
+  "author":"Markus",
+
+  "dependencies" : {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  }
+}
